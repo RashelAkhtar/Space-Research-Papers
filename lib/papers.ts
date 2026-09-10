@@ -20,7 +20,7 @@ export const papers: Paper[] = [
     title: "Lunar Image Registration & Feature Matching Research",
     abstract:
       "Analysis of boulders population around a young crater using very high resolution image of Orbiter High Resolution Camera (OHRC) on board Chandrayaan-2 mission — published in Icarus.",
-    url: "",
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0019103522002706",
   },
   {
     id: "4",
